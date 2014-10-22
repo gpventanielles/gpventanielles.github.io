@@ -23,9 +23,9 @@ Animamos a los desempleados y precarios a organizarse para levantar una fuerte o
 -------
 
 A nivel municipal reivindicamos políticas que creen empleo y mejoren la situación de los desempleados, como por ejemplo:
-*. Implantar las 35 horas en las contratas del ayuntamiento y empresas municipales.
-*. Bono de transporte público para parados.
-*. Rebajar tasas municipales para parados.
+* Implantar las 35 horas en las contratas del ayuntamiento y empresas municipales.
+* Bono de transporte público para parados.
+* Rebajar tasas municipales para parados.
 
 ------------------
 
