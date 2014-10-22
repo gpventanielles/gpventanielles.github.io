@@ -23,14 +23,10 @@ Animamos a los desempleados y precarios a organizarse para levantar una fuerte o
 -------
 
 A nivel municipal reivindicamos políticas que creen empleo y mejoren la situación de los desempleados, como por ejemplo:
-Implantar las 35 horas en las contratas del ayuntamiento y empresas municipales.
-Bono de transporte público para parados.
-Rebajar tasas municipales para parados.
+*. Implantar las 35 horas en las contratas del ayuntamiento y empresas municipales.
+*. Bono de transporte público para parados.
+*. Rebajar tasas municipales para parados.
 
+------------------
 
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Esta página esta realizada con [jekyllrb.com](http://jekyllrb.com/) y alojada en [Github Pages](http://pages.github.io)
