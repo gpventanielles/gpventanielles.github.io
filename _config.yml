@@ -1,0 +1,12 @@
+# Site settings
+title: Grupo de Parad@s de Ventanielles
+email: gpventanielles@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  El GPV somos un grupo de base de desempleados y trabajadores del barrio de Ventanielles. Nuestro objetivo es el cumplimiento efectivo del Derecho al Trabajo en condiciones dignas y suficientes para el pleno desarrollo de la persona.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: gpventanielles
+github_username:  gpventanielles
+
+# Build settings
+markdown: kramdown
