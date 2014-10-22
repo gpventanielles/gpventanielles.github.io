@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 22 Oct 2014 11:43:01 +0200</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2014 11:43:01 +0200</lastBuildDate>
+    <pubDate>Wed, 22 Oct 2014 11:51:21 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Oct 2014 11:51:21 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -14,7 +14,7 @@
         <description>&lt;p&gt;Ante el debate que se está abriendo en el Ayuntamiento de Oviedo a raíz de la propuesta de incorporar un bono de transporte y una reducción de tasas municipales (agua y basura) para desempleados. Desde el GPV queremos hacer constar lo siguiente:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Nos parece positivo que se abra este debate y mostramos nuestro apoyo a medidas de este tipo. Si el sistema no es capaz de garantizar el efectivo Derecho al Trabajo en condiciones de dignidad para 6 millones de personas en España, justo es que a esas personas no se les exija la misma contribución.&lt;/li&gt;
+  &lt;li&gt;Nos parece positivo que se abra este debate y mostramos nuestro apoyo a medidas de este tipo. Si el sistema no es capaz de garantizar el efectivo Derecho al Trabajo en condiciones de dignidad para 6 millones de personas en España, justo es que a esas personas no se les exija la misma contribución a las arcas públicas y que puedan acceder a los servicios públicos en condiciones más favorables.&lt;/li&gt;
   &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -28,34 +28,6 @@
         <category>de</category>
         
         <category>prensa</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 22 Oct 2014 12:22:10 +0200</pubDate>
-        <link>/jekyll/update/2014/10/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2014/10/22/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
