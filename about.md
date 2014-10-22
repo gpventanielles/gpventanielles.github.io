@@ -29,4 +29,4 @@ A nivel municipal reivindicamos políticas que creen empleo y mejoren la situaci
 
 ------------------
 
-Esta página esta realizada con [jekyllrb.com](http://jekyllrb.com/) y alojada en [Github Pages](http://pages.github.io)
+Esta página esta realizada con [jekyllrb.com](http://jekyllrb.com/) y alojada en [Github Pages](http://pages.github.com)
