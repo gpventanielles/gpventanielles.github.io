@@ -14,7 +14,7 @@ Animamos a los desempleados y precarios a organizarse para levantar una fuerte o
 
 # Programa
 
-1. Reducción de la jornada laboral máxima a 30 horas semanales, manteniendo el mismo salario por hora. Limitación de las horas extraordinarias a un máximo de 40 horas anuales, incluyendo las motivadas por causas de fuerza mayor.
+1. Reducción de la jornada laboral máxima a 30 horas semanales, elevando el salario por hora para mantener el poder adquisitivo. Limitación de las horas extraordinarias a un máximo de 40 horas anuales, incluyendo las motivadas por causas de fuerza mayor.
 2. Reforzamiento de los recursos y poderes de la inspección de trabajo. Creación de un Consejo Estatal de Trabajadores para coordinar y fiscalizar toda la política económica.
 3. Reducción de impuestos y tasas a desempleados, subempleados y pensionistas con bajas pensiones.
 4. Prestación por desempleo indefinida para quien esté en búsqueda activa de empleo. Elevación del salario mínimo y la pensión mínima a 1000€ al mes.
@@ -23,9 +23,13 @@ Animamos a los desempleados y precarios a organizarse para levantar una fuerte o
 -------
 
 A nivel municipal reivindicamos políticas que creen empleo y mejoren la situación de los desempleados, como por ejemplo:
+
 * Implantar las 35 horas en las contratas del ayuntamiento y empresas municipales.
+
 * Bono de transporte público para parados.
+
 * Rebajar tasas municipales para parados.
+
 
 ------------------
 
